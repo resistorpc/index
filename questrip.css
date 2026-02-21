@@ -1,0 +1,63 @@
+.text-center  {
+   text-align: center;
+
+}
+
+.p {
+  font-size: 2.875rem;
+  font-family: sans-serif;
+  color: rgb(255, 255, 255)
+}
+
+body {
+   background-color: #1f1f1f;
+
+}
+
+.font-bold {
+    font-weight: 700;
+}
+
+.font-games {
+    font-weight: 600;
+}
+
+p {
+  font-size: 1.8rem;
+  font-family: sans-serif;
+  color: rgb(255, 255, 255)
+
+}
+
+.main {
+  text-align: center;
+
+
+}
+
+.pp {
+  font-size: 2.875rem;
+  font-family: sans-serif;
+  color: rgb(255, 0, 0)
+}
+
+.space {
+    color: white;
+
+}
+
+.oo {
+    text-align: center;
+    color: white;
+    font-weight: 700;
+   font-style: initial;
+}
+
+.link {
+   font-weight: 500;
+   display: flex;            /* Turns on flex mode */
+  justify-content: center;   /* Centers horizontally */
+  width: 100%;              /* Ensures it spans the whole page */
+  font-size: large;
+
+}
