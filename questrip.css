@@ -43,7 +43,7 @@ p {
 
 .space {
     color: white;
-
+  font-weight: 200;
 }
 
 .oo {
@@ -82,4 +82,8 @@ p {
   display: block; 
   max-width: 100%; 
   height: auto;
+}
+
+.font-games1 {
+    font-weight: 600;
 }
